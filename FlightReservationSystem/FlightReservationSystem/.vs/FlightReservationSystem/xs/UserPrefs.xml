@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{507D3861-9260-4A47-8E20-FEF5D232BC30}|Default">
+  <MonoDevelop.Ide.ItemProperties.FlightReservationSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlightMaintenance.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="42" />
+      <File FileName="Flights.cs" />
+      <File FileName="FlightMaintenance.cs" Line="16" Column="37" />
+      <File FileName="WriteToFile.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlightReservationSystem" expanded="True">
+            <Node name="FlightReservationSystem" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="FlightMaintenance.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

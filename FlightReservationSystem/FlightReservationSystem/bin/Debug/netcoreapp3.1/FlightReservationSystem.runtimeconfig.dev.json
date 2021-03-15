@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/blessie/.dotnet/store/|arch|/|tfm|",
+      "/Users/blessie/.nuget/packages"
+    ]
+  }
+}
